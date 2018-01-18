@@ -1,4 +1,27 @@
-> A non-exhaustive list of WebGL frameworks and libraries. It is mostly for learning purposes as some of the libraries listed are outdated/not maintained anymore.
+# Documents
+
+* [WebGL 1.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/1.0/)
+* [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+* [WebGL 1.0 reference card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf)
+* [WebGL 2.0 reference guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
+* [glTF 2.0 reference guide](https://www.khronos.org/files/gltf20-reference-guide.pdf)
+* [Mozilla WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+
+# Tutorials
+
+* [WebGL fundamentals](https://webglfundamentals.org/)
+* [glTF Tutorials](https://github.com/KhronosGroup/glTF-Tutorials)
+
+# Books
+
+todo
+
+# Status
+
+* [WebGL status](http://webglstats.com/)
+* [WebGL report](http://webglreport.com/)
+* [Supported Browsers](https://caniuse.com/#feat=webgl)
+
 
 # Engines and libraries
 * [three.js](https://github.com/mrdoob/three.js): JavaScript 3D library
